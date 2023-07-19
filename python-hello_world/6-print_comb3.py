@@ -4,4 +4,4 @@ for i in range(0, 9):
             print("{:d}{:d}".format(i, j), end=", ")
         else:
             print("{:02d}".format(int(str(i)+str(j))), end=", ")
-print("89")
+print()
