@@ -4,10 +4,10 @@ def pow(a, b):
         result *= a
     return result
 result = pow(2, 3)
-print(result)  # Output: 8
+print(result)  
 
 result = pow(5, 2)
-print(result)  # Output: 25
+print(result)  
 
 result = pow(10, -2)
-print(result)  # Output: 0.01
+print(result)  
