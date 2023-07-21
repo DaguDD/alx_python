@@ -1,10 +1,10 @@
 def add(a, b):
     return a + b
 result = add(1, 2)
-print(result)  # Output: 3
+print(result)  
 
 result = add(98, 0)
-print(result)  # Output: 98
+print(result) 
 
 result = add(100, -2)
-print(result)  # Output: 98
+print(result)  
