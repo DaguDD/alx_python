@@ -4,11 +4,18 @@ def pow(a, b):
     for i in range(b):
         result *= a
     return result
-result = pow(2, 3)
+result = pow(2, 2)
 print(result)  
 
-result = pow(5, 2)
-print(result)  
+result = pow(98, 2)
+print(result)
 
-result = pow(10, -2)
-print(result)  
+
+result = pow(98, 0)
+print(result)
+
+result = pow(100, -2)
+print(result)
+
+result = pow(-4, 5)
+print(result)
